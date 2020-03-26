@@ -4,7 +4,7 @@
 ## Parsing Information
   - Website used for parsing information : https://www.worldometers.info/coronavirus/country/india/
   - API used for parsing information : https://thingspeak.com/apps/thinghttp 
-  ![pic2](https://github.com/AnshumanFauzdar/COVID19-India-Counter/blob/master/img003.JPG)
+  ![pic2](https://github.com/AnshumanFauzdar/COVID19-India-Counter/blob/master/img003.jpg)
   - Used HTTP request in arduino 
   
 ## Materials used:
