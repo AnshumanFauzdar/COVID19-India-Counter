@@ -5,6 +5,17 @@
   - Website used for parsing information : https://www.worldometers.info/coronavirus/country/india/
   - API used for parsing information : https://thingspeak.com/apps/thinghttp 
   ![pic2](https://github.com/AnshumanFauzdar/COVID19-India-Counter/blob/master/img003.jpg)
+  - use Xpath for PaseString:
+    ```
+    URL:
+    https://www.worldometers.info/coronavirus/country/india/
+    ParseString: 
+    //*[@id="maincounter-wrap"]/div/span 
+
+    URL:
+    https://www.mohfw.gov.in
+    ParseString: 
+    //*[@id="site-dashboard"]/div/div/div/div/ul/li[1]/strong
   - Used HTTP request in arduino 
   
 ## Materials used:
